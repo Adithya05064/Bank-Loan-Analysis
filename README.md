@@ -1,4 +1,5 @@
-Bank-Loan-Analysis
+#Bank-Loan-Analysis
+
 📌 Overview
 This project demonstrates a complete end-to-end data analytics workflow in the Banking & Financial Services domain.
 Using 38,000+ loan records across 24 attributes, the analysis uncovers key insights into loan applications, repayments, credit risk, and customer segments.
