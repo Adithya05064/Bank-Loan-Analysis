@@ -1,4 +1,4 @@
-#Bank-Loan-Analysis
+Bank-Loan-Analysis
 
 📌 Overview
 This project demonstrates a complete end-to-end data analytics workflow in the Banking & Financial Services domain.
